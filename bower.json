@@ -1,0 +1,36 @@
+{
+  "name": "ember-cli-test-project",
+  "dependencies": {
+    "handlebars": "2.0.0",
+    "jquery": "^1.11.1",
+    "ember": "~1.9.0",
+    "ember-data": "1.0.0-beta.11",
+    "ember-resolver": "~0.1.11",
+    "loader.js": "stefanpenner/loader.js#1.0.1",
+    "ember-cli-shims": "stefanpenner/ember-cli-shims#0.0.3",
+    "ember-cli-test-loader": "rwjblue/ember-cli-test-loader#0.0.4",
+    "ember-load-initializers": "stefanpenner/ember-load-initializers#0.0.2",
+    "bootstrap": "~3.2.0",
+    "video.js": "~4.8.5",
+    "ember-simple-auth": "0.6.7",
+    "ember-qunit": "0.1.8",
+    "ember-qunit-notifications": "0.0.4",
+    "qunit": "~1.15.0",
+    "exifreader": "*",
+    "pikaday": "~1.2.0",
+    "momentjs": "~2.8.3",
+    "emojione": "~1.2.4",
+    "dom-ruler": "0.1.3",
+    "jQuery-linkify": "~1.1.7",
+    "FitText.js": "~1.2.0",
+    "hammerjs": "~2.0.4",
+    "hint.css": "~1.3.3",
+    "jquery.inputmask": "~3.1.47",
+    "masonry": "~3.2.1",
+    "imagesloaded": "~3.1.8",
+    "css-element-queries": "~0.0.2"
+  },
+  "resolutions": {
+    "handlebars": "2.0.0"
+  }
+}
